@@ -10,7 +10,9 @@ The objective of this task is to predict keypoint positions on face images. The 
 
 ![alt text](https://github.com/RenatoBMLR/Facial_Keypoints_Detection/blob/master/figures/faces_keypoints.png)
 
-The Facial Keypoints Detection was made using pyTorch, which is a python module that uses Tensors and dynamical Neural Networks to optimize GPU operations. 
+The Facial Keypoints Detection was made using PyTorch, which is a python module that uses Tensors and dynamical Neural Networks to optimize GPU operations. 
+
+![alt text](https://github.com/RenatoBMLR/Facial_Keypoints_Detection/blob/master/figures/fig_detection.png)
 
 # Requirements
 
