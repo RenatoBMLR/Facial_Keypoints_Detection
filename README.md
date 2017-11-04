@@ -6,8 +6,9 @@
 
 # Description
 
-The objective of this task is to predict keypoint positions on face images. Te dataset used is from the Kraggle competition: https://www.kaggle.com/c/facial-keypoints-detection. 
+The objective of this task is to predict keypoint positions on face images. The dataset used is from the Kraggle competition: https://www.kaggle.com/c/facial-keypoints-detection. 
 
+![alt text](https://raw.githubusercontent.com/RenatoBMLR/Facial_Keypoints_Detection/tree/master/figures/faces_keypoints.png)
 
 The Facial Keypoints Detection was made using pyTorch, which is a python module that uses Tensors and dynamical Neural Networks to optimize GPU operations. 
 
