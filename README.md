@@ -16,8 +16,6 @@ The Facial Keypoints Detection was made using PyTorch, which is a python module 
 
 # Requirements
 
-Requisitos para rodar o acelerador. Ex:
-
 -   Python 3.6+
 
 -   Jupyter Notebook 5.0+
@@ -30,8 +28,6 @@ Requisitos para rodar o acelerador. Ex:
 
 
 # Installation
-
-Processo de instalação :
 
 This notebook was developed in [Jupyter Notebook](http://jupyter.org) using [Anaconda](https://anaconda.org) environment. This is not a requirement to run the notebook provided in this repository, however as it was used to develop it therefore it and it is a well known environment among data scientists is provided a quick guide in how to install and set up your environment.
 
